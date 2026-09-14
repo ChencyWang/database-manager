@@ -22,3 +22,4 @@ A simple encrypted key‑value database written in C++17.
 ### WSL / Linux
 ```bash
 g++ main.cpp -o database -std=c++17
+## tip:made with AI!
