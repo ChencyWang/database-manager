@@ -24,3 +24,4 @@ A simple encrypted key‑value database written in C++17.
 g++ database-manager.cpp -o database -std=c++17
 ```
 > Tip: This project is built with AI-assisted development.
+- Included PDB debug symbol files for teaching demonstration
