@@ -23,4 +23,4 @@ A simple encrypted key‑value database written in C++17.
 ```bash
 g++ main.cpp -o database -std=c++17
 ```
-## tip:made with AI!
+## > Tip: This project is built with AI-assisted development.
